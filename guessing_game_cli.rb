@@ -17,4 +17,4 @@ def run_guessing_game
   num_generator
   user_prompt
   user_answer
-  if input == 
+  if input == num.to_s
