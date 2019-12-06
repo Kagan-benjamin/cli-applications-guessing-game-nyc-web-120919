@@ -14,3 +14,5 @@ end
 
 
 def run_guessing_game
+  num_generator
+  user_prompt
