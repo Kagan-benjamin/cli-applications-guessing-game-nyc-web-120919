@@ -18,3 +18,4 @@ def run_guessing_game
   user_prompt
   user_answer
   if input == num.to_s
+    puts "You guessed the correct number!"
