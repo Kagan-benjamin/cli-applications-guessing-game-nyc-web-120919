@@ -3,7 +3,7 @@ def num_generator
 end
 
 def user_prompt
-  puts "Guess a number between 1 and 6"
+  puts "Guess a number between 1 and 6:"
 
 def user_answer
   gets.chomp 
